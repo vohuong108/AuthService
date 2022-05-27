@@ -1,0 +1,15 @@
+{
+  "name": "authservice",
+  "version": "1.0.0",
+  "description": "authenticate service with docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vohuong108",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-session": "^2.0.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
